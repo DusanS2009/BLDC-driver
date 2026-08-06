@@ -6314,7 +6314,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "20"
 			(at 158.242 86.868 90)
 			(effects
 				(font
@@ -7406,7 +7406,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "20"
 			(at 182.372 114.808 90)
 			(effects
 				(font
@@ -7842,7 +7842,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "20"
 			(at 158.242 108.458 90)
 			(effects
 				(font
@@ -8542,7 +8542,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "20"
 			(at 181.102 89.408 90)
 			(effects
 				(font
@@ -8911,7 +8911,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "20"
 			(at 209.042 121.158 90)
 			(effects
 				(font
@@ -9077,7 +9077,7 @@
 				)
 			)
 		)
-		(property "Value" "R_US"
+		(property "Value" "20"
 			(at 207.772 95.758 90)
 			(effects
 				(font
