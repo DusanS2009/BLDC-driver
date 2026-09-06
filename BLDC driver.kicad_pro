@@ -677,7 +677,7 @@
       {
         "filename": "BLDC driver.kicad_sch",
         "name": "BLDC driver",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "2e31d4a5-32b8-4e03-88e1-74a3db6f79ad"
       }
     ],
     "used_designators": "",
@@ -686,7 +686,7 @@
   "sheets": [
     [
       "2e31d4a5-32b8-4e03-88e1-74a3db6f79ad",
-      "Root"
+      "BLDC driver"
     ]
   ],
   "text_variables": {},
