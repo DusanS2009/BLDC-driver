@@ -5944,7 +5944,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.01"
+		(property "Value" "WSLP2512R0100FEA"
 			(at 219.71 149.8599 0)
 			(effects
 				(font
@@ -5953,7 +5953,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_Shunt_Vishay_WSR2_WSR3_KelvinConnection"
+		(property "Footprint" "Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder"
 			(at 218.186 148.844 90)
 			(effects
 				(font
@@ -7977,7 +7977,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.01"
+		(property "Value" "WSLP2512R0100FEA"
 			(at 194.31 138.4299 0)
 			(effects
 				(font
@@ -7986,7 +7986,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_Shunt_Vishay_WSR2_WSR3_KelvinConnection"
+		(property "Footprint" "Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder"
 			(at 192.786 137.414 90)
 			(effects
 				(font
@@ -9445,7 +9445,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.01"
+		(property "Value" "WSLP2512R0100FEA"
 			(at 170.18 126.9999 0)
 			(effects
 				(font
@@ -9454,7 +9454,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_Shunt_Vishay_WSR2_WSR3_KelvinConnection"
+		(property "Footprint" "Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder"
 			(at 168.656 125.984 90)
 			(effects
 				(font
